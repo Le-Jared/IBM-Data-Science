@@ -6,6 +6,7 @@
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo 
 
+# IBM: Data Science Professional Certificate
 This repository contains my personal projects and assignment as part of IBM Data Science Professional Certification.
 
 ![image](https://github.com/Le-Jared/IBM-Data-Science/assets/68887503/b8f5be1f-5e0a-4157-8123-07e3a8c9af14)
