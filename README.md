@@ -9,7 +9,8 @@
 # Data Science Professional Certificate
 This repository contains my personal projects and assignment as part of IBM Data Science Professional Certification.
 
-![image](https://github.com/Le-Jared/IBM-Data-Science/assets/68887503/b8f5be1f-5e0a-4157-8123-07e3a8c9af14)
+![image](https://github.com/Le-Jared/IBM-Data-Science/assets/68887503/31d94fe0-fa60-4326-b460-b389b25a5178)
+
 
 <br>
 Specialization Course Link: [https://www.coursera.org/professional-certificates/ibm-data-science]
